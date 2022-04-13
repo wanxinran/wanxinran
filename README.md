@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, I'm @wanxinran
+
+- 🎓 I'm a senior undergraduate student, class of 2022, dual degree in Computer Engineering (BS) and Mathematics (BA)
+- 🎓 I'll be a master student studying Computational Data Science, graduating in December 2023
+- 🌱 I’m currently learning to avoid overusing my phone
+- 💞️ I'm interested in nature, science fiction, and techology
+- 👯 I’m looking to collaborate on projects that are fun and challenging
+- 📫 How to reach me: xr.wan0623@gmail.com
+
 
 <!--
 **wanxinran/wanxinran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
